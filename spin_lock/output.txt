@@ -1,0 +1,10 @@
+[15802.209237] getMyVar num is: 103
+[15802.209349] in threadone 
+[15802.209350] setMyVar num is: 3
+[15802.209351] getMyVar num is: 3
+[15805.214910] in threadone 
+[15805.214922] in threadtwo 
+[15805.214928] setMyVar num is: 104
+[15805.214932] getMyVar num is: 104
+[15805.214937] setMyVar num is: 4
+[15805.214942] getMyVar num is: 4

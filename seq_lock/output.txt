@@ -1,0 +1,10 @@
+[21346.258543] setMyVar num is: 27
+[21346.258546] getMyVar num is: 27
+[21346.258551] setMyVar num is: 127
+[21346.258555] getMyVar num is: 127
+[21349.264265] in threadone 
+[21349.264269] in threadtwo 
+[21349.264282] setMyVar num is: 128
+[21349.264286] getMyVar num is: 128
+[21349.264297] setMyVar num is: 28
+[21349.264301] getMyVar num is: 28
